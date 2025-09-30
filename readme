@@ -1,4 +1,4 @@
-# DevOps Project - TASK 4
+# DevOps Project -
 
 ## Objective
 Build a Version-Controlled DevOps Project with Git  
@@ -21,4 +21,5 @@ Manage a project using Git best practices including branching, commits, tags, an
 - .gitignore  
 - Tags and Releases  
 - Documentation in docs/TASK4.md
+
 
